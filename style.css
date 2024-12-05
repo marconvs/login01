@@ -65,7 +65,6 @@ h2{
     color: #ffff;
     font-size: 20px;
     background-color: transparent;
-
 }
 
 input:focus ~ label,
@@ -96,13 +95,12 @@ input:valid ~ label{
 p{
     color: #fff;
     padding: 10px;
-    text-transform: capitalize;
 }
 
 p > a{
     text-decoration: none;
     color: #fff;
-    justify-content: center;
+    align-items: center;
 }
 
 p > a:hover{
